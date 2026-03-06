@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18891588.svg)](https://doi.org/10.5281/zenodo.18891588)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/J2231/BG_multiple_loop_model/blob/main/BG_multiple_loop_model_PlosCompBiol.ipynb)
+
 # BG_multiple_loop_model
 Basal ganglia multiple-loop computational model used in [A Model of Interacting Basal Ganglia and Cortico-Thalamocortical Loops Accounts for Key Temporal Firing Patterns in a Delayed Choice Task], submitted to PLOS Computational Biology.
 
